@@ -9,7 +9,7 @@ Palavras-Chave: Ryu Controller — OpenFlow — Micro serviços — Qualidade de
 Esse desenvolvimento trata-se de uma validação de um artigo TCC que foi apresentado na UNIFEG
 
 
-o artigo tem como objetivo apresentar a estrutura de redes definidas por software (RDS) adotada 
+O artigo tem como objetivo apresentar a estrutura de redes definidas por software (RDS) adotada 
 em aplicações que utilizam micro serviços juntamente com o Protocolo OpenFlow que serve como base 
 para a implantação das RDS. Atualmente a arquitetura de redes de computadores, está muito consolidada, 
 o que a tornou uma solução rígida e difícil de ser alterada, pois, switches e roteadores, já saem de fábrica 
